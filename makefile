@@ -1,6 +1,6 @@
 README.md: guessinggame.sh
 	echo "# The Guessing Game  " > README.md
-	echo "The make file that created this readme.txt was run `date`  " >> README.md
+	echo "The make file that created this README.md was run `date`  " >> README.md
 	echo "" >> README.md
 	echo "Lines of code in the guessing game: " >> README.md 
 	wc -l < guessinggame.sh >> README.md
