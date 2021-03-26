@@ -6,7 +6,7 @@ do
 read input
 if [[ $input ]] && [ $input -eq $input 2>/dev/null ]
 then
-  if [[ $input -eq 2 ]]
+  if [[ $input -eq 3 ]]
   then
     echo "Correct!"
    else
