@@ -1,1 +1,0 @@
-wc -l < guessinggame.sh
